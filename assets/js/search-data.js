@@ -83,6 +83,17 @@ ninja.data = [{
             window.location.href = "/Other-things/blog/2025/plotly/";
           
         },
+      },{id: "post-a-post-with-redirect",
+        
+          title: "a post with redirect",
+        
+        description: "you can also redirect to assets like pdf",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/Other-things/assets/pdf/example_pdf.pdf";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
