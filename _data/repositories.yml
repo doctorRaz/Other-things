@@ -6,6 +6,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - github.com/GeorgGrebenyuk/ncad_UI_creator
+  - github.com/TBS-Software/MenuFilesGen
   - alshedivat/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
